@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Shivansh<br><br>💻 CS Undergrad | Full-Stack & AI Enthusiast<br>🚀 Building smart tools with React, Node, Python & AI<br>🧠 Focused on productivity, automation & self-mastery<br>📚 Learning C++, Kotlin & Java<br>🌍 Dreaming global, executing daily<br>🔗 Exploring GSoC, open-source & next-gen tech<br>
+👋 Hey, I’m Shivansh<br><br>💻 CS Undergrad | Full-Stack & AI Enthusiast<br>🚀 Building smart tools with React, Node, Python & AI<br>🧠 Focused on productivity, automation & self-mastery<br>📚 Learning C++, Kotlin & Java<br>🌍 Dreaming global, executing daily<br>🔗 Exploring GSoC, open-source & next-gen tech<br
 
 
 ## 🌐 Socials:
