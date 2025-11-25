@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hey, I’m Shivansh<br><br>💻 CS Undergrad | Full-Stack & AI Enthusiast<br>🚀 Building smart tools with React, Node, Python & AI<br>🧠 Focused on productivity, automation & self-mastery<br>📚 Learning C++, Kotlin & Java<br>🌍 Dreaming global, executing daily<br>🔗 Exploring GSoC, open-source & next-gen tech<br>
-
+   
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valenshivansh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/valenshivansh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Felixshivansh@gmail.com) 
